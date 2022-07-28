@@ -43,9 +43,9 @@
         border: 3px double #cccccc;
         color: #eeeeee;
         text-align: center;
-        font-size: 15px;
-        padding: 20px;
-        width: 200px;
+        font-size: 20px;
+        padding: 50px;
+        width: 500px;
         margin-top: 3px;
       }
     
@@ -61,7 +61,7 @@
     
     #timer{
         font-family: sans-serif;
-        background-color: #5a69f0;
+        background-color: #f05ab1;
         color: #eeeeee;
         font-size: x-large;
         text-shadow: .5px .5px black;
@@ -83,26 +83,26 @@
     }
     
     #highScore{
-        height: 1.5rem;
+        height: 5rem;
         border: groove 2px;
     }
     
-    #highscore-Page{
+    #high-scorePage{
         display: none;
-        width: 50%;
+        width: 70%;
         border: solid;
         border-color: silver;
         border-bottom-style: groove;
-        padding-bottom: .3rem;
-        background: lightsteelblue;
+        padding-bottom: 5rem;
+        background: rgb(224, 157, 202);
     }
     
     #highscore-header{
         display:flex;
         justify-content: space-around;
         border-bottom-style: outset;
-        margin-bottom: .5rem;
-        background-color: #5e6df1;
+        margin-bottom: 5rem;
+        background-color: #e59ddf;
         color: #eeeeee;
         font-family: sans-serif;
     }
